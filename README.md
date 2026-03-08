@@ -68,7 +68,6 @@ In the log-log model:
 - statsmodels
 - scipy
 - matplotlib
-- seaborn
 
 ## Project Files
 
