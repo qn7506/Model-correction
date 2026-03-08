@@ -72,6 +72,6 @@ In the log-log model:
 
 ## Project Files
 
-- `assignment3.ipynb` – analysis code
-- `Auto1.csv` – dataset
-- `analysis_report.pdf` – full analytical report
+- `Code.ipynb` – analysis code
+- `Auto-1.csv` – dataset
+- `Analytical Report.pdf` – full analytical report
